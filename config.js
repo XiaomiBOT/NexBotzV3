@@ -42,19 +42,19 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6285710061796'
+global.nomorown = '6285710061796'
+global.nomorown1 = '6285710061796'
+global.namebot = 'YanBotz'
+global.nameown = 'RyanOfc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6285710061796'],
+  ['6285710061796'],
+  ['6285710061796'],
+  ['6285710061796', 'RyanOfc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,14 +104,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By YanBotz' //Main Watermark
+global.wm2 = 'RyanOfc'
+global.wm3 = 'YanBotz | By RyanOfx'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `YanBotz | ʙʏ ${global.nameown}`
+global.author = 'RyanOfc' 
+global.packname = 'YanBotz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Juli 11 2022'
 
@@ -133,7 +133,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'NexEp'
 global.umurowner = '19'
 global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
+global.nomorowner = 'wa.me/6285710061796'
 global.pacarowner = 'Kaede Hitotsuba'
 
 /*============== TEXT ==============*/
